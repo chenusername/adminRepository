@@ -11,5 +11,6 @@ public class Person {
 		System.out.println("chen");
 		System.out.println("chen");
 		System.out.println("xiao");
+		System.out.println("xiao");
 	}
 }
